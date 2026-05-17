@@ -2,6 +2,5 @@
 
 This is my first Git Repository.
 <br>
-Author-Prastab(Kalas Chotu)
+Author-Prastab
 <br>
-He he boi
